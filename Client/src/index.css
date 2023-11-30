@@ -224,6 +224,15 @@ nav a {
 
 }
 
+.ui-segment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15vh;
+  background-color: whitesmoke;
+}
+
+
 
 
 
