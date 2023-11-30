@@ -12,6 +12,7 @@ import {
 import Welcome from './Welcome'
 import About from './About'
 import ClothingPage from './ClothingPage'
+import Contact from './Contact'
 
 // React Router Config
 
@@ -31,6 +32,10 @@ const myRouter = createBrowserRouter([{
     {
       path: "/about",
       element: <About />
+    },
+    {
+      path: "/contact",
+      element: <Contact />
     }
   ]
 }]);

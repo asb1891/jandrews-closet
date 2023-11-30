@@ -191,6 +191,44 @@ nav a {
   font-weight: bolder;
 }
 
+.socials-container {
+  font-family: sans-serif;
+  background: whitesmoke;
+  height:100vh;
+  display: flex;
+  justify-content: space-around;
+  padding: 80px;
+}
+
+.singleCol {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.social-icons {
+  color: black;
+  font-size: 2rem;
+  padding: 100px; 
+}
+
+.backcard {
+  color: black;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  min-height: 51vh;
+
+}
+
+
+
+
+
+
 
 
 
